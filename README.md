@@ -5,7 +5,7 @@
 
 - 📫 Podes contactarme en: **https://www.linkedin.com/in/milagros-perez-loray/**
 
-- ⚡ Fun fact **Actualmente estoy haciendo el curso de ArgentinaPrograma donde me preparan para FULLSTACK**
+- ⚡ **Actualmente estoy haciendo el curso de ArgentinaPrograma donde me preparan para FULLSTACK**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
